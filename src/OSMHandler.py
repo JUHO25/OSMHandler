@@ -1,8 +1,8 @@
 # OSM Handler                
 # ref : https://docs.osmcode.org/pyosmium/latest/ref_osm.html#osmium.osm.RelationMember
-# github : https://github.com/DGIST-ARTIV/Localization/blob/master/HDMap/OSMHandler/src/OSMHandler.py
+# github : https://github.com/JUHO25/OSMHandler
 # Author: Juho Song (hoya4764@dgist.ac.kr)
-# Date: 2020.07.21.
+# Date: 2021.01.28.
 
 import osmium as osm
 
