@@ -1,6 +1,7 @@
 ## OSM Handler
 
-* OSMHandler that gets data by classifying three objects of node, way, and relation when all osm related files (osm, xml, pbf) are inserted
+* python file that gets data by classifying three objects of osm file(node, way, and relation)
+* all osm related files (osm, xml, pbf) can be inserted
 * dependecy : `pip3 install osmium`
 
 ###
